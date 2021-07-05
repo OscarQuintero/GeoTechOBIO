@@ -2,7 +2,7 @@
 @section('content')
 	<h2
               class="my-6 text-2xl font-semibold text-gray-700 dark:text-gray-200"
-            >Preguntas Frecuentes</h2>
+            >Preguntas Frecuentes FAQ</h2>
 
 <h3>Pasos a seguir para formar parte de GeoTech OBIO:</h3>
 
