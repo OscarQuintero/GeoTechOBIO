@@ -17,10 +17,25 @@ Route::get('/', function () {
     return view('home');
 });
 
+Route::get('/catalogo/{estado?}', function ($estado = null) {
+    return view('home', compact('estado'));
+});
+
 Route::get('/faq', function () {
     return view('faq');
 });
 
-// Route::get('/', function () {
-//     return view('home');
-// });
+Route::get('/categoriesfull', function () {
+    return view('categoriesfull');
+});
+
+Route::get('/payment', function () {
+    return view('payment');
+});
+Route::get('/shipping', function () {
+    return view('shipping');
+});
+Route::get('/ofertas', function () {
+    return view('ofertas');
+});
+
