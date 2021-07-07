@@ -38,4 +38,6 @@ Route::get('/shipping', function () {
 Route::get('/ofertas', function () {
     return view('ofertas');
 });
-
+Route::get('/cart', function () {
+    return view('cart');
+});

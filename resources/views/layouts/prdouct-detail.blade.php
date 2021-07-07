@@ -1,0 +1,1 @@
+prdouct-detail.blade.php

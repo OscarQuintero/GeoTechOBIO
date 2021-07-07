@@ -1,7 +1,11 @@
 <aside
-        class="z-20 hidden w-64 overflow-y-auto bg-white dark:bg-gray-800 md:block flex-shrink-0"
+        class="z-20 hidden w-64 overflow-y-auto dark:bg-gray-800 md:block flex-shrink-0"
+        style="background-color: rgba(185,189,147,0.5);"
+        	
+        
       >
-        <div class="py-4 text-gray-500 dark:text-gray-400">
+        <div class="py-4 dark:text-gray-400"
+        style="color: rgba(99,101,105, 1.0);">
           <a
             class="ml-6 text-lg font-bold text-main-color-obio-amarillo dark:text-main-color-obio-amarillo"
             href="#"
