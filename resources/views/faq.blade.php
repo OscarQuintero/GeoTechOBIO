@@ -1,10 +1,8 @@
 @extends('layouts.basic')
 @section('content')
-	<h2
-              class="my-6 text-2xl font-semibold text-gray-700 dark:text-gray-200"
-            >Preguntas Frecuentes FAQ</h2>
+	<h2 class="my-6 text-2xl font-semibold text-main-color-obio-marron dark:text-main-color-obio-amarillo">Preguntas Frecuentes FAQ</h2>
 
-<h3>Pasos a seguir para formar parte de GeoTech OBIO:</h3>
+<h3 class="my-6 text-2xl font-semibold text-main-color-obio-chedron dark:text-main-color-obio-amarillo">Pasos a seguir para formar parte de GeoTech OBIO:</h3>
 
     <ol>
           
@@ -22,13 +20,13 @@
     </p>
     
 <br>
-<h3>El proceso de entregas será el siguiente:</h3>
+<h3 class="my-6 text-2xl font-semibold text-main-color-obio-chedron dark:text-main-color-obio-amarillo">El proceso de entregas será el siguiente:</h3>
 
 <p>
     GeoTech OBIO cuenta con un sistema de transporte (que le notificará al cliente cuando su paquete esté en camino) desde donde se encuentre nuestro socio vendedor hasta los puntos de venta de retail ya establecidos que podrán fungir como bodegas de stock para realizar entregas a domicilio con más facilidad y con precios más bajos de envío.
 </p>
 <br>
-<h3>Métodos de pago</h3>
+<h3 class="my-6 text-2xl font-semibold text-main-color-obio-chedron dark:text-main-color-obio-amarillo">Métodos de pago</h3>
 <p>
     Métodos de pago variables: tarjeta de crédito o débito, se podrá realizar el pago al contado o en pagos con tarjeta de crédito generadas por una fintech o vinculadas a la misma, también se aceptan las tarjetas de crédito o débito que forman parte de cualquier otra institución financiera (no aplica para el formato “en pagos”). 
     Oxxo: se generará un código QR y uno de barras para poder pagar en cualquier tienda Oxxo (para tener la posibilidad de hacer el pago en efectivo), tienes 3 días para pagar; una vez pagado el producto, se actualizará el estatus del mismo automáticamente y procederemos a enviarlo.

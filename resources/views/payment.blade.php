@@ -1,8 +1,6 @@
 @extends('layouts.basic')
 @section('content')
-	<h2
-              class="my-6 text-2xl font-semibold text-gray-700 dark:text-gray-200"
-            >Métodos de Pago</h2>
+	<h2 class="my-6 text-2xl font-semibold text-main-color-obio-marron dark:text-main-color-obio-amarillo">Métodos de Pago</h2>
 
             <p>
             	Métodos de pago variables: tarjeta de crédito o débito, se podrá realizar el pago al contado o en pagos con tarjeta de crédito generadas por una fintech o vinculadas a la misma, también se aceptan las tarjetas de crédito o débito que forman parte de cualquier otra institución financiera (no aplica para el formato “en pagos”). 
