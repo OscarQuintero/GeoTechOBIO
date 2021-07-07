@@ -29,6 +29,13 @@ function data() {
     closeSideMenu() {
       this.isSideMenuOpen = false
     },
+    isModeMenuOpen: false,
+    toggleModeMenu() {
+      this.isModeMenuOpen = !this.isModeMenuOpen
+    },
+    closeModeMenu() {
+      this.isModeMenuOpen = false
+    },
     isCartMenuOpen: false,
     toggleCartMenu() {
       this.isCartMenuOpen = !this.isCartMenuOpen
