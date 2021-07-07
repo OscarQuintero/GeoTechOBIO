@@ -28,4 +28,10 @@
     GeoTech OBIO cuenta con un sistema de transporte (que le notificará al cliente cuando su paquete esté en camino) desde donde se encuentre nuestro socio vendedor hasta los puntos de venta de retail ya establecidos que podrán fungir como bodegas de stock para realizar entregas a domicilio con más facilidad y con precios más bajos de envío.
 </p>
 
+<h3>Métodos de pago</h3>
+<p>
+    Métodos de pago variables: tarjeta de crédito o débito, se podrá realizar el pago al contado o en pagos con tarjeta de crédito generadas por una fintech o vinculadas a la misma, también se aceptan las tarjetas de crédito o débito que forman parte de cualquier otra institución financiera (no aplica para el formato “en pagos”). 
+    Oxxo: se generará un código QR y uno de barras para poder pagar en cualquier tienda Oxxo (para tener la posibilidad de hacer el pago en efectivo), tienes 3 días para pagar; una vez pagado el producto, se actualizará el estatus del mismo automáticamente y procederemos a enviarlo.
+</p>
+
 @endsection
