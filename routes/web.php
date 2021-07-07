@@ -36,7 +36,7 @@ Route::get('/shipping', function () {
     return view('shipping');
 });
 Route::get('/ofertas', function () {
-    return view('ofertas');
+    return view('home');
 });
 Route::get('/cart', function () {
     return view('cart');
