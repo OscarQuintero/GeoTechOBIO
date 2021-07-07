@@ -21,13 +21,13 @@
         Contamos con una sección de preguntas frecuentes para cualquier duda que tengan nuestros usuarios, así como una línea telefónica de atención al cliente.
     </p>
     
-
+<br>
 <h3>El proceso de entregas será el siguiente:</h3>
 
 <p>
     GeoTech OBIO cuenta con un sistema de transporte (que le notificará al cliente cuando su paquete esté en camino) desde donde se encuentre nuestro socio vendedor hasta los puntos de venta de retail ya establecidos que podrán fungir como bodegas de stock para realizar entregas a domicilio con más facilidad y con precios más bajos de envío.
 </p>
-
+<br>
 <h3>Métodos de pago</h3>
 <p>
     Métodos de pago variables: tarjeta de crédito o débito, se podrá realizar el pago al contado o en pagos con tarjeta de crédito generadas por una fintech o vinculadas a la misma, también se aceptan las tarjetas de crédito o débito que forman parte de cualquier otra institución financiera (no aplica para el formato “en pagos”). 
