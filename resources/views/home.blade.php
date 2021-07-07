@@ -8,6 +8,8 @@
 
 </h2>
 
+<img src="{{ asset('img/logoOBIO.png')}}">
+
 En esta parte aparecerá el catalgo de los productos
 <br>
             <div class="grid gap-6 mb-8 md:grid-cols-2 xl:grid-cols-4">
