@@ -21,6 +21,10 @@ Route::get('/catalogo/{estado?}', function ($estado = null) {
     return view('home', compact('estado'));
 });
 
+Route::get('/product-detail/{producto}', function ($producto = null) {
+    return view('product-detail', compact('producto'));
+});
+
 Route::get('/faq', function () {
     return view('faq');
 });

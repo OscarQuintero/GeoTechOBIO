@@ -1,15 +1,22 @@
 @extends('layouts.basic')
 @section('content')
-	<h2 class="my-6 text-2xl font-semibold text-main-color-obio-marron dark:text-main-color-obio-amarillo">Café PRODYSER</h2>
+	<h2 class="my-6 text-2xl font-semibold text-main-color-obio-marron dark:text-main-color-obio-amarillo">{{ $producto }}</h2>
+
+            <img src="{{ asset('img/prod.png')}}">
 
             <p>
-            	 automáticamente y procederemos a enviarlo.
-            </p>
+            	 Descripción del producto
+           	</p>
+           	<br>
+           	<h3>$46.56</h3>
             <br/>
-			<ul>
-				<li>Pagos mensuales con tarjeta de crédito (creada directamente con nuestra fintech o asociada a la misma)</li>
-				<li>Tarjeta de débito </li>
-				<li>Tarjeta de crédito para pago de contado.</li>
-				<li>Pago en efectivo a través de Oxxo</li>
-			</ul>
+            <div class="px-6 my-6">
+            <button
+              class="flex items-center justify-between px-4 py-2 text-sm font-medium leading-5 text-white transition-colors duration-150 bg-purple-600 border border-transparent rounded-lg active:bg-purple-600 hover:bg-purple-700 focus:outline-none focus:shadow-outline-purple"
+            >
+              Agregar al carrito
+              <span class="ml-2" aria-hidden="true">+</span>
+            </button>
+          </div>
+			
 @endsection
