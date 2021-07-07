@@ -8,7 +8,9 @@
 
 </h2>
 
-<img src="{{ asset('img/logoOBIO.png')}}">
+<img src="{{ asset('img/logoOBIO.png')}}" width="100px">
+
+<br>
 
 En esta parte aparecerá el catalgo de los productos
 <br>
